@@ -1,11 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "Reggie",
         "text": "This is a test note",
-        "note_id": "55446700-e719-4deb-aaac-92bb63cf9d3f"
+        "id": "55446700-e719-4deb-aaac-92bb63cf9d3f"
+    },
+    {
+        "title": "Reginald",
+        "text": "Brooooo this is so cool!",
+        "id": "6e1dfc02-474a-4b11-a00b-5a9153b3b3fa"
     }
 ]
