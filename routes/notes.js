@@ -21,7 +21,7 @@ notes.delete('/:id', (req, res) => {
 
             writeToFile('./db/db.json', result);
 
-            res.json(`Item ${noteId} has been deleted 🗑️`);
+            res.json(`Item ${noteId} has been deleted`);
         });
 });
 
